@@ -12,6 +12,7 @@ You can just follow this quick guidline and save up some time 🗿
 ![379658745_693719946117442_6718008895659795104_n](https://github.com/gepthecoder/unity-android-debugging/assets/38008294/99086254-e1d7-4b6c-802e-fba360f0631d)
 
 ### 3) OPEN ANDROID DEVICE MONITOR
+#### ❗❗ You can check in Unity your original sdk path ❗❗   
 ![path](https://github.com/gepthecoder/unity-android-debugging/assets/38008294/7864cbcc-115f-4035-bda8-2f0c1acf9953)
 
 ### 4) CHECK IF YOUR DEVICE IS CONNECTED
